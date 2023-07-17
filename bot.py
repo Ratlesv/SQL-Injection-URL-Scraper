@@ -22,7 +22,7 @@ kw_file_path = "dork//keywords.txt"
 ext_file_path = "dork//pageext.txt"
 pt_file_path = "dork//pagetypes.txt"
 
-http_proxy = 'brd-customer-hl_733ecf85-zone-web_unlocker1:nc89mm6t15cd@brd.superproxy.io:22225/'
+http_proxy = 'brd-customer-hl_733ecf85-zone-web_unlocker1:nc89mm6t15cd@brd.superproxy.io:22225/' #You can use proxy services like this.
 #--------------------------#
 
 #--------------------------#
